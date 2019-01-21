@@ -1,0 +1,21 @@
+{
+    "name": "jubairmizan/lara-lte",
+    "description": "AdminLte Template Version 2.4.5)\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D(Version 2.4.5) initialize with laravel projects",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jubair Mizan",
+            "email": "jubairmizan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloWorld": "src/"
+        }
+    }
+}
